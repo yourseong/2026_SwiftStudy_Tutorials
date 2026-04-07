@@ -12,4 +12,4 @@ https://developer.apple.com/tutorials/develop-in-swift/model-data-with-custom-ty
     - `UUID()`와 같은 형태로 호출할때마다 매번 완전히 새로운, 중복될 확률이 거의 0에 가까운 고유값 생성.
     - Identifiable protocol을 사용할 때 활용할 수 있음.
 - `Grid`, `GridRow`를 활용한 grid 레이아웃 생성
-![ScreenShot](CH1_ScoreKeeper/Assets.xcassets/DataModeling.imageset/DataModeling.png)
+![ScreenShot](https://github.com/yourseong/2026_SwiftStudy_Tutorials/blob/main/CH1_ScoreKeeper/Assets.xcassets/DataModeling.imageset/DataModeling.png)
