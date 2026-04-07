@@ -16,6 +16,7 @@ https://developer.apple.com/tutorials/develop-in-swift/model-data-with-custom-ty
 <img src="https://github.com/yourseong/2026_SwiftStudy_Tutorials/blob/main/CH1_ScoreKeeper/Assets.xcassets/DataModeling.imageset/DataModeling.png?raw=true" width="20%">
 
 2. Add functionality with Swift Testing
+https://developer.apple.com/tutorials/develop-in-swift/add-functionality-with-swift-testing
 - Unit test를 활용해 내 앱의 logic을 테스트해보며 의도대로 작동하는지 확인해보기
 - Enum을 선언하고 사용해보기
 - 앱의 logic을 포함하는 type 만들기
