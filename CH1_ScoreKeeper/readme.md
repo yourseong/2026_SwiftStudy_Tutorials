@@ -4,7 +4,7 @@ https://developer.apple.com/tutorials/develop-in-swift/model-data-with-custom-ty
 - `String`, `Int`, `Array` 데이터 타입 다루기
 - 나만의 `struct`type을 defining해 app의 state를 data로 modeling
 - Protocol Syntax 사용해보기
-    **❓Identifiable protocol**
+    - **❓Identifiable protocol이란**
     - Swift 및 SwiftUI에서 데이터 항목에 안정적이고 고유한 식별자(id)를 부여하는 프로토콜.
     - Hashable을 준수하는 id 프로퍼티를 필수로 구현해야 하며, 이를 통해 List나 ForEach에서 데이터를 고유하게 식별하고 UI 변경사항을 자동으로 반영함.
 - UUID (Universally Unique IDentifier)
