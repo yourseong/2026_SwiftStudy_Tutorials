@@ -1,6 +1,6 @@
 //
-//  CH1_Custom_types_and_Swift_TestingApp.swift
-//  CH1_Custom_types_and_Swift_Testing
+//  CH1_ScoreKeeper.swift
+//  CH1_ScoreKeeper
 //
 //  Created by 채유성 on 4/6/26.
 //

@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		5A2C6A6A2F83C29F002C374D /* CH1_Custom_types_and_Swift_Testing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CH1_Custom_types_and_Swift_Testing.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A2C6A6A2F83C29F002C374D /* CH1_ScoreKeeper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CH1_ScoreKeeper.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		5A2C6A6C2F83C29F002C374D /* CH1_Custom_types_and_Swift_Testing */ = {
+		5A2C6A6C2F83C29F002C374D /* CH1_ScoreKeeper */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = CH1_Custom_types_and_Swift_Testing;
+			path = CH1_ScoreKeeper;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		5A2C6A612F83C29F002C374D = {
 			isa = PBXGroup;
 			children = (
-				5A2C6A6C2F83C29F002C374D /* CH1_Custom_types_and_Swift_Testing */,
+				5A2C6A6C2F83C29F002C374D /* CH1_ScoreKeeper */,
 				5A2C6A6B2F83C29F002C374D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		5A2C6A6B2F83C29F002C374D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5A2C6A6A2F83C29F002C374D /* CH1_Custom_types_and_Swift_Testing.app */,
+				5A2C6A6A2F83C29F002C374D /* CH1_ScoreKeeper.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5A2C6A692F83C29F002C374D /* CH1_Custom_types_and_Swift_Testing */ = {
+		5A2C6A692F83C29F002C374D /* CH1_ScoreKeeper */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5A2C6A752F83C2A0002C374D /* Build configuration list for PBXNativeTarget "CH1_Custom_types_and_Swift_Testing" */;
+			buildConfigurationList = 5A2C6A752F83C2A0002C374D /* Build configuration list for PBXNativeTarget "CH1_ScoreKeeper" */;
 			buildPhases = (
 				5A2C6A662F83C29F002C374D /* Sources */,
 				5A2C6A672F83C29F002C374D /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				5A2C6A6C2F83C29F002C374D /* CH1_Custom_types_and_Swift_Testing */,
+				5A2C6A6C2F83C29F002C374D /* CH1_ScoreKeeper */,
 			);
-			name = CH1_Custom_types_and_Swift_Testing;
+			name = CH1_ScoreKeeper;
 			packageProductDependencies = (
 			);
 			productName = CH1_Custom_types_and_Swift_Testing;
-			productReference = 5A2C6A6A2F83C29F002C374D /* CH1_Custom_types_and_Swift_Testing.app */;
+			productReference = 5A2C6A6A2F83C29F002C374D /* CH1_ScoreKeeper.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 5A2C6A652F83C29F002C374D /* Build configuration list for PBXProject "CH1_Custom_types_and_Swift_Testing" */;
+			buildConfigurationList = 5A2C6A652F83C29F002C374D /* Build configuration list for PBXProject "CH1_ScoreKeeper" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5A2C6A692F83C29F002C374D /* CH1_Custom_types_and_Swift_Testing */,
+				5A2C6A692F83C29F002C374D /* CH1_ScoreKeeper */,
 			);
 		};
 /* End PBXProject section */
@@ -309,7 +309,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5A2C6A652F83C29F002C374D /* Build configuration list for PBXProject "CH1_Custom_types_and_Swift_Testing" */ = {
+		5A2C6A652F83C29F002C374D /* Build configuration list for PBXProject "CH1_ScoreKeeper" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5A2C6A732F83C2A0002C374D /* Debug */,
@@ -318,7 +318,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5A2C6A752F83C2A0002C374D /* Build configuration list for PBXNativeTarget "CH1_Custom_types_and_Swift_Testing" */ = {
+		5A2C6A752F83C2A0002C374D /* Build configuration list for PBXNativeTarget "CH1_ScoreKeeper" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5A2C6A762F83C2A0002C374D /* Debug */,
