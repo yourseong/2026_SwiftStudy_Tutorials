@@ -1,5 +1,6 @@
 ## [Swift] Data modeling
-### CH1. Custom types and Swift Testing : Model data with custom types
+### CH1. Custom types and Swift Testing
+1. Model data with custom types
 https://developer.apple.com/tutorials/develop-in-swift/model-data-with-custom-types
 - `String`, `Int`, `Array` 데이터 타입 다루기
 - 나만의 `struct`type을 defining해 app의 state를 data로 modeling
@@ -13,3 +14,12 @@ https://developer.apple.com/tutorials/develop-in-swift/model-data-with-custom-ty
     - Identifiable protocol을 사용할 때 활용할 수 있음.
 - `Grid`, `GridRow`를 활용한 grid 레이아웃 생성
 <img src="https://github.com/yourseong/2026_SwiftStudy_Tutorials/blob/main/CH1_ScoreKeeper/Assets.xcassets/DataModeling.imageset/DataModeling.png?raw=true" width="20%">
+
+2. Add functionality with Swift Testing
+- Unit test를 활용해 내 앱의 logic을 테스트해보며 의도대로 작동하는지 확인해보기
+- Enum을 선언하고 사용해보기
+- 앱의 logic을 포함하는 type 만들기
+- .opacity를 사용해 view 숨기기
+- .disabled를 사용해 control 비활성화
+<img src="https://github.com/yourseong/2026_SwiftStudy_Tutorials/blob/main/CH1_ScoreKeeper/Assets.xcassets/DataModeling.imageset/SettingView.png?raw=true" width="20%">
+<img src="https://github.com/yourseong/2026_SwiftStudy_Tutorials/blob/main/CH1_ScoreKeeper/Assets.xcassets/DataModeling.imageset/ScoreKeeper.png?raw=true" width="20%">

@@ -17,3 +17,11 @@ struct Player: Identifiable { // Identifiable : protocol (규칙)
     var name: String
     var score: Int
 }
+
+// Equatable protocol 선언
+extension Player: Equatable {
+    static func == (lhs: Player, rhs: Player) -> Bool {
+        lhs.name == rhs.name && lhs.score == rhs.score
+    }
+    
+}
