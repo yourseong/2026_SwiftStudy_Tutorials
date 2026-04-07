@@ -21,5 +21,5 @@ https://developer.apple.com/tutorials/develop-in-swift/model-data-with-custom-ty
 - 앱의 logic을 포함하는 type 만들기
 - .opacity를 사용해 view 숨기기
 - .disabled를 사용해 control 비활성화
-<img src="https://github.com/yourseong/2026_SwiftStudy_Tutorials/blob/main/CH1_ScoreKeeper/Assets.xcassets/DataModeling.imageset/DataModeling.png" width="20%">
+<img src="https://github.com/yourseong/2026_SwiftStudy_Tutorials/blob/main/CH1_ScoreKeeper/Assets.xcassets/SettingView.imageset/SettingView.png" width="20%">
 <img src="https://github.com/yourseong/2026_SwiftStudy_Tutorials/blob/main/CH1_ScoreKeeper/Assets.xcassets/ScoreKeeper.imageset/ScoreKeeper.png" width="20%">
